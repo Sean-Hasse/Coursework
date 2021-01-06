@@ -1,0 +1,11 @@
+/* Sean Hasse
+ * HW 3
+ * 11/11/2018
+ */
+
+import java.util.*;
+import java.lang.String;
+
+public class Polynomial 
+{
+  
